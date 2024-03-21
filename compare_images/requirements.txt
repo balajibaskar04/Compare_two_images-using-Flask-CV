@@ -1,0 +1,6 @@
+opencv-python
+os
+numpy
+Flask
+render_template
+request
